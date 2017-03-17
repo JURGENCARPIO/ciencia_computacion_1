@@ -1,1 +1,2 @@
-# ciencia_computacion_1
+# JURGEN_CARPIO
+
